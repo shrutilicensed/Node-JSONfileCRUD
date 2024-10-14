@@ -1,0 +1,23 @@
+{
+  "student-1": {
+    "rollNumber": 101,
+    "name": "Sonya",
+    "email": "sonya@email.com",
+    "course": "B.Tech",
+    "semester": 6
+  },
+  "student-3": {
+    "rollNumber": 103,
+    "name": "Lavanya",
+    "email": "lavanya@email.com",
+    "course": "M.Tech",
+    "semester": 3
+  },
+  "student-4": {
+    "name": "Anya",
+    "email": "anya@email.com",
+    "course": "B.Sc",
+    "semester": 4,
+    "rollNumber": 104
+  }
+}
